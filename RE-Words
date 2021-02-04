@@ -1,0 +1,8 @@
+/* This is my first time knock the keyborad on Git-Hub */
+//My uu-Language is C&python
+int()
+{
+   a[]={};
+   scanf("A man, a plan, a canal:Panama", a);
+   printf("This is a Re-Words", a);
+}
