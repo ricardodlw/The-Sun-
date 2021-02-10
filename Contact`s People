@@ -1,1 +1,10 @@
-
+// This is a mini-program for create a contact list or line
+//main language is standard C 
+int main()
+{
+  int a ;
+  while (a)
+  {
+    
+  }
+}
