@@ -2,7 +2,7 @@
 //My uu-Language is C&python
 int main()
 {
-   a[]={};
+   a[] = {};
    scanf("A man, a plan, a canal:Panama", a);
    printf("This is a Re-Words", a);
 }
