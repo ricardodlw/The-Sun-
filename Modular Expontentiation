@@ -1,5 +1,5 @@
 /this is a Modular Exponentiation, that is a thouht which named divide-to-do
-/recusion
+/recusion mainmind: every number,which is belong to Z, that can be divided by binary.TIPS: b>>1, is bit / 2
 int RFS(int a, int b, int c)
 {
     if(b==1)
